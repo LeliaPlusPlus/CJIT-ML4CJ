@@ -1,4 +1,4 @@
-# CJIT-ML4CJ
+# Leveraging Machine Learning to Advance Climate Justice
 This repository contains curriculum for the computing module in the Climate Justice Instructional Toolkit by the MIT Environmental Solutions Initiative. We piloted this curriculum during MIT IAP 2025.
 
 This module provides a curriculum that integrates climate justice and machine learning for practical real-world applications. Part 1 explores why ML is useful to advance CJ, ethical considerations, and sociotechnical frameworks. Part 2 discusses how to move from data to impact. Part 3 explores urban heat disparities as a case study for interpretable ML applications. Parts 4 and 5 explore climate health equity in heat-related illness.
