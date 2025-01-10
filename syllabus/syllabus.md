@@ -1,7 +1,9 @@
 # Leveraging Machine Learing to Advance Climate Justice
 
 ## Course Information
-Location: Virtual  Lecture Time: 12-1:30 PM  Dates: January 7-30, 2025 (MIT IAP 2025)
+Location: Virtual  
+Lecture Time: 12-1:30 PM  
+Dates: January 7-30, 2025 (MIT IAP 2025)
 
 ## Instructor
 Lelia Marie Hampton
