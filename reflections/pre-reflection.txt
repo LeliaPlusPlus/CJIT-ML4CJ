@@ -1,0 +1,14 @@
+Reflection 1
+
+What is your current expertise?
+Why are you interested in this course?
+What are your passions? How do your passions relate to your interest in the course?
+How much do you know about machine learning? If you are knowledgeable about machine learning, what is your expertise?
+How much did you know about climate justice? If you are knowledgeable about climate justice, what is your expertise?
+If you are knowledgeable about climate justice, what topics are you most passionate about or interested in?
+How much do you know about urban heat islands? 
+What are your thoughts on implementing machine learning in social systems?
+How much did you know about the intersection of machine learning and climate justice?
+Why do you think using machine learning to study climate justice might be important or useful?
+How do you feel about the ethical implications of integrating machine learning and climate justice?
+If you created machine learning to study a climate justice issue, which stakeholders would you want to communicate the results to and how would you do so?
