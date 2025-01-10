@@ -1,4 +1,4 @@
-# Leveraging Machine Learing to Advance Climate Justice
+# Leveraging Machine Learning to Advance Climate Justice
 
 ## Course Information
 Location: Virtual  
