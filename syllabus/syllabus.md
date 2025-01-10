@@ -6,9 +6,9 @@ Lecture Time: 12-1:30 PM
 Dates: January 7-30, 2025 (MIT IAP 2025)
 
 ## Instructor
-Lelia Marie Hampton
-Ph.D. Student, EECS/AI+D
-lelia@mit.edu
+Lelia Marie Hampton  
+Ph.D. Student, EECS/AI+D  
+lelia@mit.edu  
 Course Supervisor: Christopher Rabe (cjrabe@mit.edu)
 
 ## Prerequisites
@@ -17,7 +17,7 @@ A passion for climate justice and social justice. Python skills. Knowledge of ba
 ## Course Description
 How can we use machine learning to advance climate justice? In this course, we engage students in leveraging their data science skillset to study climate justice issues. Students read papers to understand ongoing humanistic and data-driven research in climate justice topics. Students work through case studies of disparities in urban heat islands and heat-related illness through several problem sets. Throughout the course, the students will simultaneously engage with machine learning ethics and climate justice issues. Students reflect on their motivations for pursuing climate justice through a machine learning lens, the potential limitations of machine learning to study climate justice issues, and the role civic engagement can play in this realm. 
 
-##Intended Learning Outcomes
+## Intended Learning Outcomes
 1. Learn about climate justice concepts and principles.
 2. Understand the emerging literature on quantitative studies of climate justice.
 3. Understand the strengths and limitations of a quantitative, or machine learning, approach to studying climate justice.
