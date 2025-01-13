@@ -2,6 +2,7 @@
 
 ## Problem Setup
 Let's consider the supervised learning setting.  
+  
 Given a set of features $x \in X$ and labels $y \in Y$, we want to learn $f(x)$ under the objective function $min \left|f(x)-y \right|$.  
 In machine learning, we have a train and test set to understand if our model generalizes by not over or underfitting the data.  
 Supervised learning can be generally divided into two categories: classification in which the target is discrete (e.g., logistic regression), and regression in which the target is continuous (e.g., linear regression).
@@ -12,7 +13,7 @@ Let's consider the classification setting. In a classification tree, split (or i
 
 The below image represents a decision tree for playing outside based on the weather. 
 
-![A decision tree for playing outside based on the weather](https://github.com/LeliaPlusPlus/CJIT-ML4CJ/blob/main/recitations/ensembles/imgs/GEP_decision_tree_with_numeric_and_nominal_attributes.png)
+![A decision tree for playing outside based on the weather](https://github.com/LeliaPlusPlus/CJIT-ML4CJ/blob/main/recitations/ensembles/imgs/Decision_tree_for_playing_outside.png)
 
 ## Ensemble Methods
 Unfortunately, one decision tree tends to overfit the data. In order to prevent overfitting, we can create ensembles of decision trees. Ensembles mean we use more than one model. We can use multiple of the same model for a homogeneous ensemble (e.g., random forests) or different models for a hetergeneous ensemble (e.g., superlearners).  
