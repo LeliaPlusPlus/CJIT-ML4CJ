@@ -26,7 +26,9 @@ With bootstrap aggregating (bagging), we simultaneously build multiple decision 
 ![A figure demonstrating how bagging works.](https://github.com/LeliaPlusPlus/CJIT-ML4CJ/blob/main/recitations/ensembles/imgs/Ensemble-Bagging.png)
 
 ### XGBoost
-With boosting, we train multiple models sequentially. In each new sequence, we train a model to emphasize the training samples previously mis-modeled.
+With boosting, we train multiple models sequentially. In each new sequence, we train a model to emphasize the training samples that were previously mis-classified. To start, we equally weight all training samples and input them into a model. For those mis-classified samples, we upweight (i.e., increase their weight) them to encourage the model to focus on these samples and correctly classify them. The final model is a weighted sum of the learners.  
+
+Boosting may be computationally intensive. We can use gradient descent to compute the gradient of the loss of our ensemble. Even further, XGBoost (eXtreme Gradient Boosting) further speeds up computation through various mechanisms [Wikipedia](https://en.wikipedia.org/wiki/XGBoost). 
 
 ![A figure demonstrating how boosting works.](https://github.com/LeliaPlusPlus/CJIT-ML4CJ/blob/main/recitations/ensembles/imgs/Ensemble-Boosting.png)
 
@@ -36,3 +38,6 @@ With boosting, we train multiple models sequentially. In each new sequence, we t
 Friedman, Jerome, Trevor Hastie, and Robert Tibshirani. “The elements of statistical learning”. hastie.su.domains/ElemStatLearn (2009).  
 Images courtesy of Wikimedia Commons.
 
+## Further Reading
+[What is Boosting? - AWS](https://aws.amazon.com/what-is/boosting/)
+[Gradient Boosted Decision Trees](https://developers.google.com/machine-learning/decision-forests/intro-to-gbdt)
