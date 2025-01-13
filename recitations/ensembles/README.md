@@ -30,6 +30,7 @@ Ensemble methods include:
 
 ## Random Forest
 
+![A graph showing the difference between a decision tree and random forest. A decision tree represents one tree while a random forest represents the aggregation of multiple trees.](https://github.com/LeliaPlusPlus/CJIT-ML4CJ/blob/main/recitations/ensembles/imgs/dt_v_rf.png)
 
 ## XGBoost
 
