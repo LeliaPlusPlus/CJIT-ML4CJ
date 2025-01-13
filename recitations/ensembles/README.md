@@ -12,6 +12,7 @@ Let's consider the classification setting. In a classification tree, split (or i
 
 The below image represents a decision tree for playing outside based on the weather. 
 
+![A decision tree for playing outside based on the weather](https://github.com/LeliaPlusPlus/CJIT-ML4CJ/blob/main/recitations/ensembles/imgs/GEP_decision_tree_with_numeric_and_nominal_attributes.png)
 
 ## Ensemble Methods
 Unfortunately, one decision tree tends to overfit the data. In order to prevent overfitting, we can create ensembles of decision trees. Ensembles mean we use more than one model. We can use multiple of the same model for a homogeneous ensemble (e.g., random forests) or different models for a hetergeneous ensemble (e.g., superlearners).  
