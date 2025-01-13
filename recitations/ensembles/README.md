@@ -33,11 +33,11 @@ Boosting may be computationally intensive. We can use gradient descent to comput
 ![A figure demonstrating how boosting works.](https://github.com/LeliaPlusPlus/CJIT-ML4CJ/blob/main/recitations/ensembles/imgs/Ensemble-Boosting.png)
 
 ## Citations
-[Decision tree learning - Wikipedia](https://en.wikipedia.org/wiki/Decision_tree_learning)  
-[Chapter 5.4: Decision Tree](https://christophm.github.io/interpretable-ml-book/tree.html) in the Interpretable Machine Learning Book by Christopher Molnar  
-Friedman, Jerome, Trevor Hastie, and Robert Tibshirani. “The elements of statistical learning”. hastie.su.domains/ElemStatLearn (2009).  
-Images courtesy of Wikimedia Commons.
+- [Decision tree learning - Wikipedia](https://en.wikipedia.org/wiki/Decision_tree_learning)  
+- [Chapter 5.4: Decision Tree](https://christophm.github.io/interpretable-ml-book/tree.html) in the Interpretable Machine Learning Book by Christopher Molnar  
+- Friedman, Jerome, Trevor Hastie, and Robert Tibshirani. “The elements of statistical learning”. hastie.su.domains/ElemStatLearn (2009).  
+- Images courtesy of Wikimedia Commons.
 
 ## Further Reading
-[What is Boosting? - AWS](https://aws.amazon.com/what-is/boosting/)
-[Gradient Boosted Decision Trees](https://developers.google.com/machine-learning/decision-forests/intro-to-gbdt)
+- [What is Boosting? - AWS](https://aws.amazon.com/what-is/boosting/)  
+- [Gradient Boosted Decision Trees](https://developers.google.com/machine-learning/decision-forests/intro-to-gbdt)
