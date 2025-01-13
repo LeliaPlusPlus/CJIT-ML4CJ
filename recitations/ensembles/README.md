@@ -19,21 +19,18 @@ The below image represents a decision tree for playing outside based on the weat
 ![A decision tree for playing outside based on the weather](https://github.com/LeliaPlusPlus/CJIT-ML4CJ/blob/main/recitations/ensembles/imgs/Decision_tree_for_playing_outside.png)
 
 ## Ensemble Methods
-Unfortunately, one decision tree tends to overfit the data. In order to prevent overfitting, we can create ensembles of decision trees. Ensembles mean we use more than one model. We can use multiple of the same model for a homogeneous ensemble (e.g., random forests) or different models for a hetergeneous ensemble (e.g., superlearners).  
+Unfortunately, one decision tree tends to overfit the data. In order to prevent overfitting, we can create ensembles of decision trees. Ensembles mean we use more than one model. We can use multiple of the same model for a homogeneous ensemble (e.g., random forests) or different models for a heterogeneous ensemble (e.g., superlearners). We cover the bagging and boosting methods based on two popular tree methods. 
 
-Ensemble methods include:
-<ul> 
-<li> Bagging: </li>
-<li> Boosting: </li>
-<li> Stacking: </li>
-</ul>
+### Random Forest
+With bootstrap aggregating (bagging), we simultaneously build multiple decision trees by repeatedly resampling training data with replacement, and voting the trees for a consensus prediction.  
+![]()
 
-## Random Forest
+Random forest is an ensemble of bagged decision trees. "For classification tasks, the output of the random forest is the class selected by most trees. For regression tasks, the output is the average of the predictions of the trees." [Wikipedia](https://en.wikipedia.org/wiki/Random_forest)
 
 ![A graph showing the difference between a decision tree and random forest. A decision tree represents one tree while a random forest represents the aggregation of multiple trees.](https://github.com/LeliaPlusPlus/CJIT-ML4CJ/blob/main/recitations/ensembles/imgs/dt_v_rf.png)
 
-## XGBoost
-
+### XGBoost
+Boosting: We train multiple models sequentially. In each new sequence, we train a model to emphasize the training samples previously mis-modeled.
 
 
 ## Citations
