@@ -11,6 +11,7 @@ Given the additive nature of SHAP, we not only get individual predictions for ea
 
 ## Citations
 - [How Shapley Values Work](https://www.aidancooper.co.uk/how-shapley-values-work/)
+- [A Non-Technical Guide to Interpreting SHAP Analyses](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/?xgtab&)
 - [Shapley Values - Interpretable ML](https://christophm.github.io/interpretable-ml-book/shapley.html)  
 - [SHAP - Interpretable ML](https://christophm.github.io/interpretable-ml-book/shap.html)
 - [An introduction to explainable AI with Shapley values](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html#)
