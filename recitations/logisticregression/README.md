@@ -15,7 +15,7 @@ We can use the threshold $0.5$ to determine to which class a point belongs given
 
 The odds ratio should not interpreted outside of its intended meaning.
 
-!["Example graph of a logistic regression curve fitted to data. The curve shows the estimated probability of passing an exam (binary dependent variable) versus hours studying (scalar independent variable)", caption courtesy of Wikipedia]()
+!["Example graph of a logistic regression curve fitted to data. The curve shows the estimated probability of passing an exam (binary dependent variable) versus hours studying (scalar independent variable)", caption courtesy of Wikipedia](https://github.com/LeliaPlusPlus/CJIT-ML4CJ/blob/main/recitations/logisticregression/imgs/Exam_pass_logistic_curve.png)
 
 ## Further Reading
 For the logistic regression recitation, please review the [Logistic Regression chapter](https://christophm.github.io/interpretable-ml-book/logistic.html) from the Interpretable ML book and some of the [Gallery Examples](https://scikit-learn.org/1.5/modules/generated/sklearn.linear_model.LogisticRegression.html#gallery-examples) from sklearn.
