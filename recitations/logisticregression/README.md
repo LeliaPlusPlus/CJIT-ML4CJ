@@ -5,7 +5,7 @@ Given a set of features $X$ and binary labels $Y \in (0,1)$, we want a model tha
 
 $$logistic(\eta)=\frac{1}{1+exp(-\eta)}$$
 
-Thus, our model learns the following equation:
+Thus, our model learns the following equation:  
 $$P(y=1)=\frac{1}{1+exp(-(\beta_0 + \beta_1 x_1 + ... + \beta_p x_p))}$$
 
 We can use the threshold $0.5$ to determine to which class a point belongs given our model's predicted probability. 
