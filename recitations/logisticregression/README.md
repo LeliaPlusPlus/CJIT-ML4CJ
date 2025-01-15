@@ -16,7 +16,7 @@ According to the [Interpretable ML](https://christophm.github.io/interpretable-m
 
 $ln(\frac{P(Y=1)}{1-P(Y=1)})=log(\frac{P(Y=1)}{P(Y=0)})=\beta_0 + \beta_1 x_1 + ... + \beta_p x_p$
 
-This above equation shows the log odds. Odds refers to the likelihood that an event occurs, or the probability that an event occurs divided by the probability that the event does not occur. While the above equation gives us the log odds, we want to know how the prediction changes when one of the features $x_j$ is changed by 1 unit [Interpretable ML](https://christophm.github.io/interpretable-ml-book/logistic.html). Thus, we can apply the inverse of the log to both sides of the equation with the exponential function:  
+This above equation shows the log odds. Odds refers to the likelihood that an event occurs, or the probability that an event occurs divided by the probability that the event does not occur. While the above equation gives us the log odds, we want to know how the prediction changes when one of the features $x_j$ is changed by 1 unit ([Interpretable ML](https://christophm.github.io/interpretable-ml-book/logistic.html)). Thus, we can apply the inverse of the log to both sides of the equation with the exponential function:  
 
 $\frac{P(Y=1)}{1-P(Y=1)}=odds=exp(\beta_0 + \beta_1 x_1 + ... + \beta_p x_p)$
 
