@@ -21,6 +21,12 @@ When we output a model, we can actually take the exponential of the coefficients
 
 !["Example graph of a logistic regression curve fitted to data. The curve shows the estimated probability of passing an exam (binary dependent variable) versus hours studying (scalar independent variable)", caption courtesy of Wikipedia](https://github.com/LeliaPlusPlus/CJIT-ML4CJ/blob/main/recitations/logisticregression/imgs/Exam_pass_logistic_curve.png)
 
+## Videos
+- For a high level overview: [StatsQuest: Logistic Regression](https://www.youtube.com/watch?v=yIYKR4sgzI8)
+- [StatsQuest: Logistic Regression Details Pt1: Coefficients](https://www.youtube.com/watch?v=vN5cNN2-HWE)
+- [StatsQuest: Logistic Regression Details Pt 2: Maximum Likelihood](https://www.youtube.com/watch?v=BfKanl1aSG0)
+- [Odds and Odds Ratio](https://www.youtube.com/watch?v=ARfXDSkQf1Y)
+
 ## Further Reading
 For the logistic regression recitation, please review the [Logistic Regression chapter](https://christophm.github.io/interpretable-ml-book/logistic.html) from the Interpretable ML book and some of the [Gallery Examples](https://scikit-learn.org/1.5/modules/generated/sklearn.linear_model.LogisticRegression.html#gallery-examples) from sklearn.
 
