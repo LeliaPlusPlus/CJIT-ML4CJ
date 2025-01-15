@@ -31,7 +31,7 @@ When we output a model, we can actually take the exponential of the coefficients
 - [Odds and Odds Ratio](https://www.youtube.com/watch?v=ARfXDSkQf1Y)
 
 ## Further Reading
-For the logistic regression recitation, please review the [Logistic Regression chapter](https://christophm.github.io/interpretable-ml-book/logistic.html) from the Interpretable ML book and some of the [Gallery Examples](https://scikit-learn.org/1.5/modules/generated/sklearn.linear_model.LogisticRegression.html#gallery-examples) from sklearn.
+For the logistic regression recitation, please review the [Logistic Regression chapter](https://christophm.github.io/interpretable-ml-book/logistic.html) from the Interpretable ML book and some of the [Gallery Examples](https://scikit-learn.org/1.5/modules/generated/sklearn.linear_model.LogisticRegression.html#gallery-examples) from sklearn. To look at basic hyperparamter tuning with logistic regression in sklearn, check out [Machine Learning Mastery](https://machinelearningmastery.com/hyperparameters-for-classification-machine-learning-algorithms/).
 
 ## Citations
 - [Logistic Regression - Interpretable ML Book](https://christophm.github.io/interpretable-ml-book/logistic.html)
