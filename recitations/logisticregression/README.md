@@ -22,7 +22,7 @@ This above equation shows the log odds. Odds refers to the likelihood that an ev
 
 $\frac{P(Y=1)}{1-P(Y=1)}=odds=exp(\beta_0 + \beta_1 x_1 + ... + \beta_p x_p)$
 
-When we output a model, we can actually take the exponential of the coefficients to get the odds ratio. However, the coefficients are still useful to interpret on their own. The importance of coefficients can be interpreted based on their direction and magnitude. For example, a feature with a coefficient of 5 has a higher importance for the outcome than a feature with a coefficient of 2.
+When we output a model, we can actually take the exponential of the coefficients to get the odds ratio. An odds ratio of one means the outcomes are equally likely. However, the coefficients are still useful to interpret on their own. The importance of coefficients can be interpreted based on their direction and magnitude. For example, a feature with a coefficient of 5 has a higher importance for the outcome than a feature with a coefficient of 2.
 
 ## Machine Learning Approach
 Logistic regression is a widely used tool in both statistics and machine learning, including estimation, prediction, risk quantification, and causal inference. However, the two approaches can differ.  
