@@ -15,8 +15,11 @@ You gather data from a previous study (Benz and Burney, 2021) and the Climate an
 After developing a model and examining your SHAP outputs, you create maps to understand which regions have the most heat vulnerability. In addition, you want to explore how the environment and demographics play a role in heat vulnerability.
 
 ## Index Development
-Adding SHAP Values
+### Adding SHAP Values
 Sum your SHAP values overall, only for environmental factors, and only for demographic factors. Voila! You have a heat vulnerability index.
+
+### Index Analysis
+Use data exploration techniques (e.g., histograms, scatter plots, correlation coefficients) to understand HVI patterns.
 
 ### Mapping
 Create univariate choropleth maps of the SHAP sums. Create a bivariate choropleth map comparing environmental and demographic indices.
