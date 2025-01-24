@@ -1,0 +1,15 @@
+Post-Course Reflection
+
+As you write your reflection, consider your project and the course curriculum.
+
+What are the moral responsibilities related to machine learning applications of climate justice? 
+What frameworks (e.g., role for computing in social change, algorithmic reparations, data feminism, etc.) did you find most insightful and promising for machine learning applications to climate justice?
+What are the strengths and limits of a data-centered approach to climate justice? 
+What climate justice issue would you want to further understand?
+How can we use our data science skills to help frontline communities address climate justice issues?
+How would you ground a machine learning approach to a climate justice problem?
+How do you feel about your project proposal? What parts of it do you particularly like? Dislike? Why? 
+What was especially satisfying to you about the project proposal?
+What did you find frustrating?
+What would you change in the next revision of this project?
+How do you see this project contributing to your future aspirations?
